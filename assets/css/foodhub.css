@@ -21,11 +21,11 @@
    */
 
   --red-orange-crayola: hsl(0, 100%, 66%);
-  --space-cadet: hsl(33.95%, 33.95%, 32.09%);
+  --space-cadet: hsl(0, 100%, 66%);
   --pistachio: hsl(89, 70%, 38%);
   --cultured: hsl(55, 40%, 48%);
   --saffron: hsl(356, 27%, 55%);
-  --rhythm: hsl(255, 255, 161);
+  --rhythm: hsl(0, 100%, 66%);
   --white: hsl(30, 51%, 20%);
 
   /**
